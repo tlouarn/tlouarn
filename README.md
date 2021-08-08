@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tlouarn
+- 👀 I’m interested in idiomatic Python.
+- 🌱 I’m currently learning Domain-Driven Design.
+- 💞️ I’m looking to collaborate on a variety of open-source Python projects.
